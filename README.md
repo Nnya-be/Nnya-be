@@ -1,4 +1,4 @@
-# Hello, I'm Chamamme NNyabe
+# Hello, I'm Chamamme Nnyabe Solomon
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in a variety of programming languages and technologies, including C/C++, JavaScript, Python, HTML, SCSS, and CSS. I'm also well-versed in Node.js, and I have experience working with popular libraries and frameworks such as Express, React.js, and Mongoose.
 
