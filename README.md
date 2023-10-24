@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 ## Connect with Me
 
-- GitHub: [GitHub.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [LinkedIn.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [GitHub](https://github.com/Nnya-be)
+- LinkedIn: [solomonchamamme](https://www.linkedin.com/in/solomonchamamme)
 - Email: solomonchamamme@gmail.com
 - Phone: +233(0)55-434-1306
 
